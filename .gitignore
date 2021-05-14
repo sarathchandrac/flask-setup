@@ -8,5 +8,6 @@ __pycache__
 *.log
 env
 settings.py
+settings.json
 static/images
 static
